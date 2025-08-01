@@ -1,7 +1,7 @@
 # ECTO_system_walkthrough
 Official codebase accompanying the preprint:  “Behavioral Traits as Dynamical Systems: Utilizing Entropy to Analyze Longitudinal Psychometric Data in Coupled Ordinary Differential Equations”  by Anderson M. Rodriguez (2025) https://doi.org/10.48550/arXiv.2506.20622
 
-#NOTE: Begin with ECTO Walkthrough Suite
+#NOTE: Begin with ECTO_walkthrough_suite Notebook which will replicate, in order, all the main findings and plottings of the ECTO introductory paper.
 
 # Overview:
 This repository provides a complete walkthrough of the ECTO modeling process (Entropy Coupled Trait ODEs) for analyzing behavioral trait dynamics from longitudinal psychometric data. The model integrates:
