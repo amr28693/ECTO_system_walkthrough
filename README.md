@@ -15,6 +15,7 @@ This repository provides a complete walkthrough of the ECTO modeling process (En
 The system is designed to test whether traits such as neuroticism are emergent attractors under metabolic, pleiotropic, and environmental constraints.
 
 ---
+For the Ecological ECTO application in the Appendix, the cleaned data is in .csv form, with a raw tex file for reference. Simply download to your desired filepath and update the filepath in the Ecological ECTO Python module.
 
 #Repository Contents:
 
