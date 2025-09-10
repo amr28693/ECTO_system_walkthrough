@@ -1,4 +1,4 @@
-# This repository accompanies the arXiv preprint version of ECTO. The updated model in this Late-Breaking Abstract is a simplified/scaled variant and will  be added here as a tagged version shortly after review.
+# This repository accompanies the arXiv preprint version of ECTO. The updated model in the ALife 2025 Late-Breaking Abstract is a simplified/scaled variant and will be added here as a tagged version shortly before the October 2025 conference date.
 
 # ECTO_system_walkthrough
 # Official codebase accompanying the preprint:  “Behavioral Traits as Dynamical Systems: Utilizing Entropy to Analyze Longitudinal Psychometric Data in 
